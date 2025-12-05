@@ -91,7 +91,11 @@
 ---
 
 <div align="center">
-  
+
+<img src="Pixel_art_animation_202512052110.gif" width="100%" alt="My Cyber Lair" />
+
+<br><br>
+
 *"Turning complexity into clarity, one thread at a time."*
 
 </div>
