@@ -52,11 +52,13 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nailuy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<a href="https://github.com/Nailuy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nailuy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nailuy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailuy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<a href="https://github.com/Nailuy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailuy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" />
+</a>
 
 </div>
 
@@ -71,16 +73,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-2025-lake.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nailuy)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yulianvakh)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="25" />
-
-![Snake animation](https://github.com/nailuy/nailuy/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
