@@ -96,6 +96,6 @@
 
 <br><br>
 
-*"Turning complexity into clarity, one thread at a time."*
+*Turning complexity into clarity, one thread at a time*
 
 </div>
